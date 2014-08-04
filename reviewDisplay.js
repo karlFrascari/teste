@@ -30,7 +30,7 @@ localanalytics.localapp.reviewDisplay = function (context) {
 			var totalAvaliacoes = jQuery('.poi-reviews .poi-review').length;
 			var totalAvaliacoesDiv = jQuery('.poi-reviews .poi-review');
 			
-			var botao = jQuery('.poi-reviews .poi-review button[data-place_id]'); awdawdawdw
+			var botao = jQuery('.poi-reviews .poi-review button[data-place_id]');
 			
 			for (var i = 1; i < totalAvaliacoes; i++) {				
 				botaoC[i] = botao[i-1];
